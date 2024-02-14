@@ -1,0 +1,10 @@
+@media all and (max-width:1000px) {
+    .dlink {
+        display: none;
+    }
+}
+@media all and (min-width:1000px) {
+    .Menu {
+        display: none;
+    }
+}
