@@ -1,0 +1,15 @@
+input,textarea {
+    width: 100%;
+    outline-width: 0.5px;
+    outline-color: chartreuse;
+    background-color: rgb(45, 40, 70);
+    padding: 14px;
+    margin: 8px 0px 8px 0px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+@media all and (max-width:650px) {
+    .formWidth {
+        width: 100%;
+    }
+}
